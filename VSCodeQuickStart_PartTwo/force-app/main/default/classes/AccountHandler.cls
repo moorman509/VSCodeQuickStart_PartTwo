@@ -19,6 +19,6 @@ public with sharing class AccountHandler {
         }
 
         insert addAccounts;
-
+        //this is a test for synchronizing with github
     }
 }
